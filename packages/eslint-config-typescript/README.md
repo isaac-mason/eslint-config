@@ -1,12 +1,8 @@
-# eslint-config
+# @isaac-mason/eslint-config-typescript
 
-A collection of simple and sane eslint configs that I use in my projects.
+A simple and sane typescript eslint config that I use in my projects.
 
-## @isaac-mason/eslint-config-typescript
-
-A preset for typescript projects.
-
-### Usage
+## Usage
 
 Install the package:
 

@@ -1,0 +1,30 @@
+{
+    "name": "@isaac-mason/eslint-config-typescript",
+    "description": "My personal typescript eslint config",
+    "keywords": [
+        "eslint",
+        "typescript"
+    ],
+    "version": "0.0.1",
+    "repository": "https://github.com/isaac-mason/eslint-config.git",
+    "author": "“Isaac <isaac@isaacmason.com>",
+    "license": "MIT",
+    "main": "index.js",
+    "scripts": {
+        "change": "yarn changeset",
+        "bump": "yarn changeset version && yarn install --mode update-lockfile"
+    },
+    "workspaces": [
+        "packages/*"
+    ],
+    "dependencies": {
+        "@typescript-eslint/eslint-plugin": "^6.15.0",
+        "@typescript-eslint/parser": "^6.7.3",
+        "eslint-plugin-import": "^2.29.1",
+        "typescript": "^5.3.3"
+    },
+    "devDependencies": {
+        "eslint": "^8.56.0"
+    },
+    "packageManager": "yarn@4.0.2"
+}
