@@ -14,8 +14,8 @@
     },
     "scripts": {
         "test": "echo 'todo: tests!'",
-        "release": "yarn test && yarn bump",
         "change": "yarn changeset",
-        "bump": "yarn changeset version && yarn install --mode update-lockfile"
+        "bump": "yarn changeset version && yarn install --mode update-lockfile",
+        "release": "yarn test && changeset publish"
     }
 }
