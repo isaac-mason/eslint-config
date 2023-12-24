@@ -1,15 +1,21 @@
 {
-  "name": "eslint-config",
-  "private": true,
-  "main": "index.js",
-  "repository": "https://github.com/isaac-mason/eslint-config.git",
-  "author": "“Isaac <isaac@isaacmason.com>",
-  "license": "MIT",
-  "packageManager": "yarn@4.0.2",
-  "workspaces": [
-    "packages/*"
-  ],
-  "devDependencies": {
-    "@changesets/cli": "^2.26.1"
-  }
+    "name": "eslint-config",
+    "private": true,
+    "main": "index.js",
+    "repository": "https://github.com/isaac-mason/eslint-config.git",
+    "author": "“Isaac <isaac@isaacmason.com>",
+    "license": "MIT",
+    "packageManager": "yarn@4.0.2",
+    "workspaces": [
+        "packages/*"
+    ],
+    "devDependencies": {
+        "@changesets/cli": "^2.26.1"
+    },
+    "scripts": {
+        "test": "echo 'todo: tests!'",
+        "release": "yarn test && yarn bump",
+        "change": "yarn changeset",
+        "bump": "yarn changeset version && yarn install --mode update-lockfile"
+    }
 }

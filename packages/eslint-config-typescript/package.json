@@ -10,10 +10,6 @@
     "author": "“Isaac <isaac@isaacmason.com>",
     "license": "MIT",
     "main": "index.js",
-    "scripts": {
-        "change": "yarn changeset",
-        "bump": "yarn changeset version && yarn install --mode update-lockfile"
-    },
     "workspaces": [
         "packages/*"
     ],
