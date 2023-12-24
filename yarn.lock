@@ -360,6 +360,9 @@ __metadata:
     eslint: "npm:^8.56.0"
     eslint-plugin-import: "npm:^2.29.1"
     typescript: "npm:^5.3.3"
+  peerDependencies:
+    eslint: ^8.56.0
+    typescript: ^5.3.3
   languageName: unknown
   linkType: soft
 
