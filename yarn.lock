@@ -355,7 +355,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@isaac-mason/eslint-config-typescript@workspace:packages/eslint-config-typescript"
   dependencies:
-    "@typescript-eslint/eslint-plugin": "npm:^6.16.0"
+    "@typescript-eslint/eslint-plugin": "npm:^6.17.0"
     "@typescript-eslint/parser": "npm:^6.16.0"
     eslint: "npm:^8.56.0"
     eslint-plugin-import: "npm:^2.29.1"
@@ -461,7 +461,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/eslint-plugin@npm:^6.16.0":
+"@typescript-eslint/eslint-plugin@npm:^6.17.0":
   version: 6.17.0
   resolution: "@typescript-eslint/eslint-plugin@npm:6.17.0"
   dependencies:
