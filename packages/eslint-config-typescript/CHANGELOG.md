@@ -1,5 +1,12 @@
 # @isaac-mason/eslint-config-typescript
 
+## 0.0.3
+
+### Patch Changes
+
+-   77ac82a: chore(deps): bump @typescript-eslint/parser from 6.15.0 to 6.17.0
+-   77ac82a: chore(deps): bump @typescript-eslint/eslint-plugin from 6.15.0 to 6.17.0
+
 ## 0.0.2
 
 ### Patch Changes
