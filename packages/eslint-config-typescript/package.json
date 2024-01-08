@@ -5,7 +5,7 @@
         "eslint",
         "typescript"
     ],
-    "version": "0.0.3",
+    "version": "0.0.4",
     "repository": "https://github.com/isaac-mason/eslint-config.git",
     "author": "“Isaac <isaac@isaacmason.com>",
     "license": "MIT",
