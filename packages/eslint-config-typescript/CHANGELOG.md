@@ -1,5 +1,11 @@
 # @isaac-mason/eslint-config-typescript
 
+## 0.0.5
+
+### Patch Changes
+
+-   07d7a6c: feat: bump eslint deps
+
 ## 0.0.4
 
 ### Patch Changes
