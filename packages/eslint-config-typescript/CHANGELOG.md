@@ -1,5 +1,12 @@
 # @isaac-mason/eslint-config-typescript
 
+## 0.0.6
+
+### Patch Changes
+
+-   c0100eb: feat: change eslint peerDependency version to ^9.0.0
+-   a75c0a0: chore(deps): bump @typescript-eslint/parser from 7.1.1 to 7.6.0
+
 ## 0.0.5
 
 ### Patch Changes
