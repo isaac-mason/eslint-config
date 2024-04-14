@@ -1,5 +1,11 @@
 # @isaac-mason/eslint-config-typescript
 
+## 0.0.7
+
+### Patch Changes
+
+-   3ebee57: chore(deps): bump @typescript-eslint/eslint-plugin from 7.1.1 to 7.6.0
+
 ## 0.0.6
 
 ### Patch Changes
