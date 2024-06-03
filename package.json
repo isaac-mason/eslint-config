@@ -10,7 +10,7 @@
         "packages/*"
     ],
     "devDependencies": {
-        "@changesets/cli": "^2.26.1"
+        "@changesets/cli": "^2.27.5"
     },
     "scripts": {
         "test": "echo 'todo: tests!'",
