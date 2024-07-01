@@ -10,10 +10,10 @@ Install the package:
 npm install --save-dev @isaac-mason/eslint-config-typescript
 ```
 
-Add the following to your `.eslintrc`:
+Create an `eslint.config.mjs` file with the following contents:
 
-```json
-{
-  "extends": "@isaac-mason/eslint-config-typescript"
-}
+```ts
+import config from '@isaac-mason/eslint-config-typescript'
+
+export default [...config]
 ```
