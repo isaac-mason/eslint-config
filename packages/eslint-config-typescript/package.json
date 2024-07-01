@@ -5,7 +5,7 @@
         "eslint",
         "typescript"
     ],
-    "version": "0.0.7",
+    "version": "0.0.6",
     "repository": "https://github.com/isaac-mason/eslint-config.git",
     "author": "“Isaac <isaac@isaacmason.com>",
     "license": "MIT",
@@ -14,17 +14,17 @@
         "packages/*"
     ],
     "peerDependencies": {
-        "eslint": "^9.0.0",
-        "typescript": "^5.4.5"
+        "eslint": "^9.6.0",
+        "typescript": "^5.5.2"
     },
     "dependencies": {
-        "@typescript-eslint/eslint-plugin": "^7.6.0",
-        "@typescript-eslint/parser": "^7.6.0",
+        "@typescript-eslint/eslint-plugin": "^7.14.1",
+        "@typescript-eslint/parser": "^7.14.1",
         "eslint-plugin-import": "^2.29.1"
     },
     "devDependencies": {
-        "eslint": "^9.0.0",
-        "typescript": "^5.4.5"
+        "eslint": "^9.6.0",
+        "typescript": "^5.5.2"
     },
     "packageManager": "yarn@4.0.2"
 }
