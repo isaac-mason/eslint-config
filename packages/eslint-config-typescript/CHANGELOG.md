@@ -1,5 +1,11 @@
 # @isaac-mason/eslint-config-typescript
 
+## 0.0.9
+
+### Patch Changes
+
+-   aa5de3a: fix: support eslint v9
+
 ## 0.0.8
 
 ### Patch Changes
