@@ -1,6 +1,6 @@
 # @isaac-mason/eslint-config-typescript
 
-## 0.0.7
+## 0.0.8
 
 ### Patch Changes
 
