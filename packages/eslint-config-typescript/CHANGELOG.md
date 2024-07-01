@@ -4,6 +4,14 @@
 
 ### Patch Changes
 
+-   378da6f: feat: bump typescript from 5.4.5 to 5.5.2
+-   378da6f: feat: bump @typescript-eslint/eslint-plugin and @typescript-eslint/parser from 7.6.0 to 7.14.1
+-   378da6f: feat: bump eslint from 9.0.0 to 9.6.0
+
+## 0.0.7
+
+### Patch Changes
+
 -   3ebee57: chore(deps): bump @typescript-eslint/eslint-plugin from 7.1.1 to 7.6.0
 
 ## 0.0.6
