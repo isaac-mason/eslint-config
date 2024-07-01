@@ -17,5 +17,8 @@
         "change": "yarn changeset",
         "bump": "yarn changeset version && yarn install --mode update-lockfile",
         "release": "yarn test && changeset publish"
+    },
+    "dependencies": {
+        "@eslint/js": "^9.6.0"
     }
 }
