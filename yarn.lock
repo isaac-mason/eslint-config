@@ -322,10 +322,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eslint/js@npm:9.6.0, @eslint/js@npm:^9.6.0":
+"@eslint/js@npm:9.6.0":
   version: 9.6.0
   resolution: "@eslint/js@npm:9.6.0"
   checksum: 10c0/83967a7e59f2e958c9bbb3acd0929cad00d59d927ad786ed8e0d30b07f983c6bea3af6f4ad32da32145db40b7a741a816ba339bdd8960fc7fc8231716d943b7f
+  languageName: node
+  linkType: hard
+
+"@eslint/js@npm:^9.8.0":
+  version: 9.8.0
+  resolution: "@eslint/js@npm:9.8.0"
+  checksum: 10c0/42edaae6b020436410454579509dcb6a8cd5b260e9f18e037fd803ae28d35eb13663d4019f0ab8ba686a19d3c4a43b0e11394c148e23345377ab694da0e83262
   languageName: node
   linkType: hard
 
@@ -356,7 +363,7 @@ __metadata:
   dependencies:
     "@eslint/compat": "npm:^1.1.0"
     "@eslint/eslintrc": "npm:^3.1.0"
-    "@eslint/js": "npm:^9.6.0"
+    "@eslint/js": "npm:^9.8.0"
     "@typescript-eslint/eslint-plugin": "npm:^7.14.1"
     "@typescript-eslint/parser": "npm:^7.14.1"
     eslint: "npm:^9.6.0"
@@ -1076,7 +1083,7 @@ __metadata:
   resolution: "eslint-config@workspace:."
   dependencies:
     "@changesets/cli": "npm:^2.27.6"
-    "@eslint/js": "npm:^9.6.0"
+    "@eslint/js": "npm:^9.8.0"
   languageName: unknown
   linkType: soft
 

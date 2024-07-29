@@ -19,6 +19,6 @@
         "release": "yarn test && changeset publish"
     },
     "dependencies": {
-        "@eslint/js": "^9.6.0"
+        "@eslint/js": "^9.8.0"
     }
 }
